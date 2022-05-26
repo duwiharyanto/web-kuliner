@@ -13,7 +13,7 @@
                         <router-link class="nav-link" to="/">Home </router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/foods">Foodssss </router-link>
+                        <router-link class="nav-link" to="/foods">Foods </router-link>
                     </li>
                 </ul>
                 <ul class="navbar-nav ml-auto">
